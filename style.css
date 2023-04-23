@@ -1,0 +1,58 @@
+*{
+    background-color: rgb(230, 227, 227);
+    align-content: center;
+}
+.navigationBar{
+    padding-top: 2%;
+    padding-bottom: 2%;
+    background-color: aqua;
+    border-top: 2px solid black;
+    border-bottom: 1px solid gray;
+}
+a{
+    background-color: aqua;
+    margin-left: 10%;
+    font-size: larger;
+}
+.mov1{
+    margin-left: 20%;
+    margin-right: 5%;
+    border: 3px solid red;
+    border-radius: 5%;
+    height: 280px;
+    width: 900px;
+    white-space:break-spaces;
+    overflow:scroll;
+}
+h3{
+    font-size: x-large;
+    position:relative;    
+    bottom:300px;
+    left:35%;
+    color: red;
+}
+p{
+    position:relative;    
+    bottom:350px;
+    left:35%;
+}
+.mov2{
+    margin-left: 20%;
+    margin-right: 5%;
+    border: 3px solid red;
+    border-radius: 5%;
+    height: 280px;
+    width: 900px;
+    white-space:break-spaces;
+    overflow: scroll;
+}
+.mov3{
+    margin-left: 20%;
+    margin-right: 5%;
+    border: 3px solid red;
+    border-radius: 5%;
+    height: 280px;
+    width: 900px;
+    white-space:break-spaces;
+    overflow: scroll;
+}
